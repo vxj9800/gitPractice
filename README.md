@@ -9,3 +9,6 @@ This repository is used to teach Git to other students.
 5. Wait for me to review the changes.
 6. Squash all the commits.
 7. I'll approve and merge the pull request.
+8. Maruf added lines from here.
+9. 1st commit.
+10. 2nd commit. 
